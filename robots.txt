@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spiceup-coffee.netlify.app/sitemap.xml
